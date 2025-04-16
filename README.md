@@ -2,7 +2,7 @@
 
 This repository contains the analysis of a dataset related to direct marketing campaigns conducted by a Portuguese bank, specifically focusing on predicting whether a client will subscribe to a term deposit after a series of phone calls. The dataset contains various client attributes, such as demographic information, previous campaign interactions, and financial status.
 
-A Clear Analysis was performed and presentation is made for the same[Presentation]('https://github.com/NunnaPooja/Bank_marketing_analysis/blob/main/Finlatics%20Presentation.pptx')
+A Clear Analysis was performed and presentation is made for the same [Presentation](https://github.com/NunnaPooja/Bank_marketing_analysis/blob/main/Finlatics%20Presentation.pptx)
 
 ## Key Features:
 Client Information: Age, job type, marital status, education level, credit default, balance, housing loan, and personal loan status.
